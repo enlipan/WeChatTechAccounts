@@ -106,8 +106,9 @@
 <img src="http://open.weixin.qq.com/qr/code/?username=timyang_net" width="20%" height="20%" />
 
 ###设计
+
 - 百度多酷UED。
-- 
+
 >百度MGUX为百度移动游戏用户体验中心，前身为百度多酷UED。百度移动游戏旗下包括百度多酷、百度91两大运营平台和百度91助手、百度手机助手、安卓市场等三大应用商店，独有的搜索引擎+应用商店的发行模式，日均分发量超过1亿。
 
 <img src="http://open.weixin.qq.com/qr/code/?username=baidu_dkued" width="20%" height="20%" />
